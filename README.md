@@ -1,7 +1,7 @@
 
 I feature Azure Synapse use cases in the attached wiki
 
-## The Data Lakehouse - A Modern Scalable, Agile Data Management, and Analytics Solutions
+## The Data Lakehouse - A Modern Scalable, Agile Data Management and Analytics Solutions
 
 _traditional data warehouses are awesome, but they are rigid, with rigidity comes lack of agility_
 
